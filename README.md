@@ -21,3 +21,4 @@
 excel versioning issues and not the vba code itself as it doesnt reference any files/folders external to the excel
 - If enough people have the same problem, I may try to find the root cause and debug, else I wont
 - These arent my notes, more of a checklist that I used for convenience 
+- Also im new to github, be kind
