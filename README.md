@@ -12,8 +12,18 @@
 
 
 
-
+**Commands**\
 ![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/image.png)
+
+**Pre-exploitation**
+![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/pre-exploitation.png)
+
+**Redhat post-exploitation**
+![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/redhat-postexploit.png)
+
+**Windows post-exploitation**
+![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/windows-postexploit.png)
+
 
 **Disclaimer**
 
