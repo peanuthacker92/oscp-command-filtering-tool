@@ -18,8 +18,8 @@
 **Pre-exploitation**&nbsp;
 ![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/pre-exploitation.png)
 
-**Redhat post-exploitation**
-![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/redhat-postexploit.png)
+**Linux post-exploitation**
+![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/linux-postexploit.png)
 
 **Windows post-exploitation**
 ![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/windows-postexploit.png)
