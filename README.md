@@ -5,8 +5,8 @@
 - the filters are easily modifiable and content can be appended/deleted or you can start from fresh 
 
 **Usage** 
-- Replace all IP (kali_ip) -> To replace all instances of your existing kali ip with new kali ip, enter new ip address into "New Kali IP" and press replace (whenever you get new vpn ip)
-- Replace all IP (victim_ip) -> To replace all instances of your victim ip with new victim ip, enter new ip address into "New Victim IP" and press replace (whenever you attack new box)
+- Replace all IP (kali_ip) -> To replace all instances of your existing kali ip with new kali ip, enter new ip address **into cell to the right of** "New Kali IP" and press replace (whenever you get new vpn ip)
+- Replace all IP (victim_ip) -> To replace all instances of your victim ip with new victim ip, enter new ip address **into cell to the right of** "New Victim IP" and press replace (whenever you attack new box)
 - Show / Hide / Clear Filter -> toggle the filters on / off
 - Copy to clipboard -> copies the cell value into your clipboard (for those lazy to ctrl + c) 
 
