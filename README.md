@@ -12,10 +12,10 @@
 
 
 
-**Commands**\
+**Commands**&nbsp;
 ![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/image.png)
 
-**Pre-exploitation**
+**Pre-exploitation**&nbsp;
 ![image](https://github.com/jagansomaiah/oscp_checklist/blob/master/pre-exploitation.png)
 
 **Redhat post-exploitation**
