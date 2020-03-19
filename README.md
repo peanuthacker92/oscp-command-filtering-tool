@@ -29,7 +29,8 @@
 
 - I shared this with a friend and some vba functions dont seem to work for him (it works fine for me) - I suspect its due to 
 excel versioning issues and not the vba code itself as it doesnt reference any files/folders external to the excel
-- v0.1 and v0.2 are the same files with different vba code for the "copy to clipboard" function - also rmb to enable macros
 - If enough people have the same problem, I may try to find the root cause and debug, else I wont
+- v0.1 and v0.2 are the same files with different vba code for the "copy to clipboard" function 
+- remember to enable macros for excel!
 - These arent my notes, more of a checklist that I used for convenience 
 - Also im new to github, be kind
