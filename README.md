@@ -1,4 +1,4 @@
-# oscp_checklist
+# oscp command filtering tool
 **Features** 
 - easily filter for commands based on tool, language, intent, port or operating system
 - automatically updates both kali and victim ip address so you dont have to manually modify the command
